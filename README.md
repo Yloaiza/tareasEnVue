@@ -17,8 +17,15 @@ Este proyecto es una mini aplicación en Vue 3 que consume una API pública para
 
 1. **Clona este repositorio**  
    ```bash
-   git clone https://github.com/tuusuario/nombre-del-repo.git
-   cd nombre-del-repo
+   git clone https://github.com/Yloaiza/tareasEnVue.git
+   cd tareasEnVue
+
+2.**Instala las dependencias:**
+   npm install
+   npm install axios
+
+3.**Ejecutar el proyecto en desarrollo**
+   npm run dev
 
 
 # Link de el bloque 1 desplegado :D
